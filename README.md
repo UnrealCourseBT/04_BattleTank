@@ -3,3 +3,4 @@ An open-world head to head fight with simple AI, terrain and advanced control sy
 
 Lecture List
 BT01 Intro, Notes & Assets
+BT02 Game Design Document (GDD)
